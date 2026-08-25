@@ -6,8 +6,7 @@ utilities.
 ## Repository structure
 
 - `scripts/exp01_semisynthetic_continuous_benchmark_50rep.py` runs the
-  semi-synthetic continuous-treatment benchmark. Its outputs include the
-  Friedman aligned-rank omnibus test and method-level mean aligned ranks.
+  semi-synthetic continuous-treatment benchmark.
 - `scripts/exp02_empirical_core_ablation_full_crossfit.py` runs the
   representation-specification stability analysis.
 - `scripts/exp03_representation_support_diagnostics.py` runs the
